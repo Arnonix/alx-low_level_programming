@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 /**
- *  *Main - main block
+ *  *main - main block
  *   *description - prints the alphabets in lower case
  *    *return: 0 (success)
  *
@@ -12,7 +12,7 @@ int main(void)
 
 	while c <= 'z';
 	{
-		putchar (c);
+		putchar ('c');
 		c++;
 	}
 	 	putchar ('\n');
